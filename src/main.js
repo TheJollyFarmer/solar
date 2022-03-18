@@ -1,4 +1,10 @@
-import { createApp } from "vue";
+import "@/assets/sass/main.scss";
 import App from "./App.vue";
+import mitt from "mitt";
+import { createApp } from "vue";
 
-createApp(App).mount("#app");
+const app = createApp(App);
+const emitter = mitt();
+
+app.config.globalProperties.emitter = emitter;
+app.mount("#app");

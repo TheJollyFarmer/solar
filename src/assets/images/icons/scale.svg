@@ -1,0 +1,164 @@
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   x="0px"
+   y="0px"
+   width="235px"
+   height="100px">
+  <g
+     stroke="#eeeeee"
+     stroke-width="1">
+    <line
+       x1="5"
+       y1="35"
+       y2="0"
+       x2="5"/>
+    <line
+       y1="35"
+       x1="27"
+       y2="15"
+       x2="27"/>
+    <line
+       y1="35"
+       x1="49"
+       y2="15"
+       x2="49"/>
+    <line
+       y1="35"
+       x1="71"
+       y2="15"
+       x2="71"/>
+    <line
+       y1="35"
+       x1="93"
+       y2="15"
+       x2="93"/>
+    <line
+       y1="35"
+       x1="115"
+       y2="15"
+       x2="115"/>
+    <line
+       y1="35"
+       x1="137"
+       y2="15"
+       x2="137"/>
+    <line
+       y1="35"
+       x1="159"
+       y2="15"
+       x2="159"/>
+    <line
+       y1="35"
+       x1="181"
+       y2="15"
+       x2="181"/>
+    <line
+       y1="35"
+       x1="203"
+       y2="15"
+       x2="203"/>
+    <line
+       y1="35"
+       x1="225"
+       y2="0"
+       x2="225"/>
+    <g
+       fill="none"
+       transform="matrix(0,-0.15923333,0.15923333,0,5.9683713,47.86343)">
+      <path
+         stroke="#eeeeee"
+         stroke-width="8.50677"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         d="m -61.867335,194.35861 c -1.0208,0 -2.03594,-0.43669 -2.742,
+          -1.27886 -1.26751,-1.5142 -1.06903,-3.77133 0.44518,-5.03884 L
+          2.6082757,132.06356 -65.961915,74.305454 c -1.511374,-1.273179
+          -1.704194,-3.530307 -0.43101,-5.03884 1.27601,-1.511368 3.53598,
+          -1.701353 5.03884,-0.43101 l 75.08354,63.244966 -73.29995,61.44437
+          c -0.6692,0.56145 -1.48585,0.83367 -2.29684,0.83367 z"/>
+      <circle
+         fill="#e4c157"
+         cx="-100.69788"
+         cy="131.17601"
+         r="9.9245596"
+         style="stroke-width:2.83559"/>
+      <circle
+         fill="#00adb5"
+         cx="-72.341995"
+         cy="131.17601"
+         r="9.9245596"
+         style="stroke-width:2.83559"/>
+      <circle
+         fill="#c1c1c1"
+         cx="-43.986107"
+         cy="131.17601"
+         r="9.9245596"
+         style="stroke-width:2.83559"/>
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:251.204px;line-height:1.25;font-family:astro;-inkscape-font-specification:astro;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:6.28009"
+         x="36.995075"
+         y="-23.671764"
+         id="text1034"
+         transform="rotate(90)">
+        <tspan
+           x="36.995075"
+           y="-23.671764"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:astro;-inkscape-font-specification:astro;fill:#ff0000;stroke-width:6.28009"
+        />
+      </text>
+      <text
+         style="font-size:100.481px;line-height:0.85;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';fill:#eeeeee;fill-opacity:1;stroke-width:6.28009"
+         x="-27.015026"
+         y="267.96219"
+         transform="rotate(90)">
+        <tspan
+           x="-27.015026"
+           y="267.96219"
+           style="font-size:100.481px;fill:#eeeeee;fill-opacity:0.85098;stroke-width:6.28009">
+          100,000 KM
+        </tspan>
+      </text>
+      <text
+         style="font-size:100.481px;line-height:0.85;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';fill:#eeeeee;fill-opacity:1;stroke-width:6.28009"
+         x="671.24884"
+         y="267.96219"
+         transform="rotate(90)">
+        <tspan
+           x="671.24884"
+           y="267.96219"
+           style="font-size:100.481px;fill:#eeeeee;fill-opacity:0.85098;stroke-width:6.28009">
+          1,000,000 KM
+        </tspan>
+      </text>
+      <path
+         stroke="#eeeeee"
+         stroke-width="8.50677"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         d="m -61.867335,1437.8168 c -1.0208,0 -2.03594,-0.4367 -2.742,
+          -1.2788 -1.26751,-1.5142 -1.06903,-3.7714 0.44518,-5.0389 l
+          66.7724302,-55.9773 -68.5701902,-57.7581 c -1.511374,-1.2732
+          -1.704194,-3.5303 -0.43101,-5.0389 1.27601,-1.5113 3.53598,-1.7013
+          5.03884,-0.431 l 75.08354,63.245 -73.29995,61.4444 c -0.6692,0.5614
+          -1.48585,0.8336 -2.29684,0.8336 z"/>
+      <circle
+         fill="#e4c157"
+         cx="-100.69788"
+         cy="1374.6342"
+         r="9.9245596"
+         style="stroke-width:2.83559"/>
+      <circle
+         fill="#00adb5"
+         cx="-72.34201"
+         cy="1374.6342"
+         r="9.9245596"
+         style="stroke-width:2.83559"/>
+      <circle
+         fill="#c1c1c1"
+         cx="-43.986107"
+         cy="1374.6342"
+         r="9.9245596"
+         style="stroke-width:2.83559"/>
+    </g>
+  </g>
+</svg>

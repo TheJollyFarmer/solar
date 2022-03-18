@@ -1,0 +1,174 @@
+{
+  "sol": {
+    "name": "sol",
+    "scale": 15,
+    "distance": 0,
+    "diameter": 1391400,
+    "desc": ""
+  },
+  "mercury": {
+    "name": "mercury",
+    "scale": 0.38,
+    "distance": 57900000,
+    "diameter": 4879,
+    "description": "The smallest planet in the Solar System, Mercury has no natural satellites. Besides impact craters, its only known geological features are lobed ridges or rupes that were probably produced by a period of contraction early in its history. Mercury's very tenuous atmosphere consists of atoms blasted off its surface by the solar wind. Its relatively large iron core and thin mantle have not yet been adequately explained. Hypotheses include that its outer layers were stripped off by a giant impact, or that it was prevented from fully accreting by the young Sun's energy."
+  },
+  "venus": {
+    "name": "venus",
+    "scale": 0.94,
+    "distance": 108200000,
+    "diameter": 12104,
+    "description": "Venus, like Earth, has a thick silicate mantle around an iron core, a substantial atmosphere, and evidence of internal geological activity. It is much drier than Earth, and its atmosphere is ninety times as dense. Venus has no natural satellites. It is the hottest planet, with surface temperatures over 400 °C, most likely due to the amount of greenhouse gases in the atmosphere. No definitive evidence of current geological activity has been detected on Venus, but it has no magnetic field that would prevent depletion of its substantial atmosphere, which suggests that its atmosphere is being replenished by volcanic eruptions."
+  },
+  "earth": {
+    "name": "earth",
+    "scale": 1,
+    "distance": 149600000,
+    "diameter": 12756,
+    "moons": {
+      "moon": {
+        "name": "moon",
+        "scale": 0.27
+      }
+    },
+    "description": "Earth is the largest and densest of the inner planets, the only one known to have current geological activity, and the only place where life is known to exist. Its liquid hydrosphere is unique among the terrestrial planets, and it is the only planet where plate tectonics has been observed. Earth's atmosphere is radically different from those of the other planets, having been altered by the presence of life to contain 21% free oxygen. It has one natural satellite, the Moon, the only large satellite of a terrestrial planet in the Solar System."
+  },
+  "mars": {
+    "name": "mars",
+    "scale": 0.53,
+    "distance": 227900000,
+    "diameter": 6792,
+    "moons": {
+      "phobos": {
+        "name": "phobos",
+        "scale": 0.1
+      },
+      "deimos": {
+        "name": "deimos",
+        "scale": 0.1
+      }
+    },
+    "description": "Mars is smaller than Earth and Venus. It has an atmosphere of mostly carbon dioxide with a surface pressure of 6.1 millibars (roughly 0.6% of that of Earth). Its surface, peppered with vast volcanoes, such as Olympus Mons, and rift valleys, such as Valles Marineris, shows geological activity that may have persisted until as recently as 2 million years ago. Its red colour comes from iron oxide (rust) in its soil. Mars has two tiny natural satellites (Deimos and Phobos) thought to be either captured asteroids, or ejected debris from a massive impact early in Mars's history."
+  },
+  "jupiter": {
+    "name": "jupiter",
+    "scale": 11.21,
+    "distance": 778600000,
+    "diameter": 142984,
+    "moons": {
+      "io": {
+        "name": "io",
+        "scale": 0.29
+      },
+      "europa": {
+        "name": "europa",
+        "scale": 0.25
+      },
+      "ganymede": {
+        "name": "ganymede",
+        "scale": 0.41
+      },
+      "callisto": {
+        "name": "callisto",
+        "scale": 0.38
+      }
+    },
+    "description": "Jupiter, is 2.5 times the mass of all the other planets put together. It is composed largely of hydrogen and helium. Jupiter's strong internal heat creates semi-permanent features in its atmosphere, such as cloud bands and the Great Red Spot. Jupiter has 80 known satellites. The four largest, Ganymede, Callisto, Io, and Europa, are called the Galilean moons: they show similarities to the terrestrial planets, such as volcanism and internal heating. Ganymede, the largest satellite in the Solar System, is larger than Mercury; Callisto is almost as large."
+  },
+  "saturn": {
+    "name": "saturn",
+    "scale": 9.45,
+    "distance": 1433500000,
+    "diameter": 120536,
+    "moons": {
+      "mimas": {
+        "name": "mimas",
+        "scale": 0.1
+      },
+      "enceladus": {
+        "name": "enceladus",
+        "scale": 0.1
+      },
+      "tethys": {
+        "name": "tethys",
+        "scale": 0.1
+      },
+      "dione": {
+        "name": "dione",
+        "scale": 0.1
+      },
+      "rhea": {
+        "name": "rhea",
+        "scale": 0.1
+      },
+      "titan": {
+        "name": "titan",
+        "scale": 0.4
+      },
+      "hyperion": {
+        "name": "hyperion",
+        "scale": 0.1
+      },
+      "iapetus": {
+        "name": "iapetus",
+        "scale": 0.1
+      }
+    },
+    "description": "Saturn, distinguished by its extensive ring system, has several similarities to Jupiter, such as its atmospheric composition and magnetosphere. Although Saturn has 60% of Jupiter's volume, it is less than a third as massive. Saturn is the only planet of the Solar System that is less dense than water. The rings of Saturn are made up of small ice and rock particles. Saturn has 83 confirmed satellites composed largely of ice. Two of these, Titan and Enceladus, show signs of geological activity: they, as well as five other Saturnian moons (Iapetus, Rhea, Dione, Tethys, and Mimas), are large enough to be round. Titan, the second-largest moon in the Solar System, is larger than Mercury and the only satellite in the Solar System with a substantial atmosphere."
+  },
+  "uranus": {
+    "name": "uranus",
+    "scale": 4.01,
+    "distance": 2872500000,
+    "diameter": 51118,
+    "moons": {
+      "miranda": {
+        "name": "miranda",
+        "scale": 0.1
+      },
+      "ariel": {
+        "name": "ariel",
+        "scale": 0.1
+      },
+      "umbriel": {
+        "name": "umbriel",
+        "scale": 0.1
+      },
+      "titania": {
+        "name": "titania",
+        "scale": 0.12
+      },
+      "oberon": {
+        "name": "oberon",
+        "scale": 0.12
+      }
+    },
+    "description": "Uranus, is the lightest of the outer planets. Uniquely among the planets, it orbits the Sun on its side; its axial tilt is over ninety degrees to the ecliptic. It has a much colder core than the other giant planets and radiates very little heat into space. Uranus has 27 known satellites, the largest ones being Titania, Oberon, Umbriel, Ariel, and Miranda."
+  },
+  "neptune": {
+    "name": "neptune",
+    "scale": 3.88,
+    "distance": 4495100000,
+    "diameter": 49528,
+    "moons": {
+      "triton": {
+        "name": "triton",
+        "scale": 0.21
+      }
+    },
+    "description": "Neptune, though slightly smaller than Uranus, is more massive and hence more dense. It radiates more internal heat than Uranus, but not as much as Jupiter or Saturn. Neptune has 14 known satellites. The largest, Triton, is geologically active, with geysers of liquid nitrogen. Triton is the only large satellite with a retrograde orbit. Neptune is accompanied in its orbit by several minor planets, termed Neptune trojans, that are in 1:1 resonance with it."
+  },
+  "pluto": {
+    "name": "pluto",
+    "scale": 0.18,
+    "distance": 5908300000,
+    "diameter": 2377,
+    "moons": {
+      "charon": {
+        "name": "charon",
+        "scale": 0.1
+      }
+    },
+    "description": "The dwarf planet Pluto is the largest known object in the Kuiper belt. When discovered in 1930, it was considered to be the ninth planet; this changed in 2006 with the adoption of a formal definition of planet. Pluto has a relatively eccentric orbit inclined 17 degrees to the ecliptic plane and ranging from 4.44 billion km from the Sun at perihelion (within the orbit of Neptune) to 7.41 billion km at aphelion. Pluto has a 2:3 resonance with Neptune, meaning that Pluto orbits twice round the Sun for every three Neptunian orbits. Kuiper belt objects whose orbits share this resonance are called plutinos."
+  }
+}

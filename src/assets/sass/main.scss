@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=B612:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+@font-face {
+  font-family: "AstroSpace";
+  src: url('~@/assets/fonts/AstroSpace-Regular.otf');
+  src: url('~@/assets/fonts/AstroSpace-Regular.ttf');
+}
+
+// Bootstrap
+@import "modules/asteroids";
+@import "modules/reset";
+@import "modules/generic";
+@import "modules/image";
+@import "modules/layer";
+@import "modules/particle";
+@import "modules/scales";
+@import "modules/scale-key";
+@import "modules/symbol";

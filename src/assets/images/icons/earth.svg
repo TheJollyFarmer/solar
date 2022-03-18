@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50">
+  <g
+    transform="translate(-348.7552,-478.0905)"
+    stroke="#eeeeee"
+    stroke-width="3"
+    fill="none">
+    <path
+       d="M 49 116.5 A 15.5 15.5 0 1 1  18,116.5 A 15.5 15.5 0 1 1  49 116.5 z"
+       transform="matrix(1.030303,0,0,1.030303,339.7399,383.0603)"/>
+    <path d="M 358.2552,503.0905 L 390.2552,503.0905"/>
+    <path d="M 374.2552,487.0905 L 374.2552,519.0905"/>
+  </g>
+</svg>

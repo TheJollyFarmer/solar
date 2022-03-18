@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50px" height="99px">
+    <rect x="0" y="0" width="20" height="99"/>
+    <g stroke="#eeeeee">
+        <line x1="0" y1="0" x2="35"/>
+        <line x1="0" y1="10" x2="20" y2="10"/>
+        <line x1="0" y1="20" x2="20" y2="20"/>
+        <line x1="0" y1="30" x2="20" y2="30"/>
+        <line x1="0" y1="40" x2="20" y2="40"/>
+        <line x1="0" y1="50" x2="20" y2="50"/>
+        <line x1="0" y1="60" x2="20" y2="60"/>
+        <line x1="0" y1="70" x2="20" y2="70"/>
+        <line x1="0" y1="80" x2="20" y2="80"/>
+        <line x1="0" y1="90" x2="20" y2="90"/>
+    </g>
+</svg>
