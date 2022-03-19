@@ -58,12 +58,14 @@ a
   color: $link
   cursor: pointer
   text-decoration: none
+  transition: color $hover-in
 
   strong
     color: currentColor
 
   &:hover
     color: $hover
+    transition: color $hover-out
 
 img
   height: auto
@@ -79,10 +81,6 @@ small
 span
   font-style: inherit
   font-weight: inherit
-
-//strong
-//  color: $strong-color
-//  font-weight: $strong-weight
 
 // Block
 

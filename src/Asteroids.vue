@@ -2,6 +2,7 @@
   <div :class="className">
     <VHeader
       :title="title"
+      :link="link"
       :active="display"
       @toggle="toggleDisplay"/>
     <TransitionExpand>
@@ -46,6 +47,10 @@ export default {
 
     className() {
       return this.type + "-belt";
+    },
+
+    link() {
+      return this.type + "_belt";
     }
   }
 };

@@ -2,6 +2,7 @@
   <article class="planet-text">
     <VHeader
       :title="planet.name"
+      :link="planet.link"
       :active="display"
       @toggle="toggleDisplay"/>
     <PlanetTextBody

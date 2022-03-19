@@ -5,7 +5,9 @@
       image="plus"
       dimension="32"
       @click="toggleEvent"/>
-    {{ title }}
+    <a
+      :href="wikiLink"
+      v-text="title"/>
   </h3>
 </template>
 
@@ -23,6 +25,11 @@ export default {
       required: true
     },
 
+    link: {
+      type: String,
+      required: true
+    },
+
     active: {
       type: Boolean,
       required: true
@@ -34,6 +41,10 @@ export default {
   computed: {
     activeClass() {
       return this.active ? "is-active" : "";
+    },
+
+    wikiLink() {
+      return `www.wikipedia/${this.link}`;
     }
   },
 
