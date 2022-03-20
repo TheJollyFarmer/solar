@@ -4,7 +4,7 @@ module.exports = {
     loaderOptions: {
       sass: {
         sourceMap: true,
-        prependData: `
+        additionalData: `
           @import "@/assets/sass/variables.sass";
         `
       }
