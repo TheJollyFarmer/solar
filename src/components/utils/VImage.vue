@@ -79,10 +79,6 @@ export default {
     getUrl() {
       return require(`@/assets/images/${this.dir}/${this.image}.${this.type}`);
     }
-
-    // getAltUrl({ target: img }) {
-    //   // img.src = require(`@/assets/images/error/${this.placeholder}.png`);
-    // }
   }
 };
 </script>

@@ -3,7 +3,7 @@
    x="0px"
    y="0px"
    width="235px"
-   height="100px">
+   height="75px">
   <g
      stroke="#eeeeee"
      stroke-width="1">
@@ -94,42 +94,6 @@
          cy="131.17601"
          r="9.9245596"
          style="stroke-width:2.83559"/>
-      <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:251.204px;line-height:1.25;font-family:astro;-inkscape-font-specification:astro;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:6.28009"
-         x="36.995075"
-         y="-23.671764"
-         id="text1034"
-         transform="rotate(90)">
-        <tspan
-           x="36.995075"
-           y="-23.671764"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:astro;-inkscape-font-specification:astro;fill:#ff0000;stroke-width:6.28009"
-        />
-      </text>
-      <text
-         style="font-size:100.481px;line-height:0.85;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';fill:#eeeeee;fill-opacity:1;stroke-width:6.28009"
-         x="-27.015026"
-         y="267.96219"
-         transform="rotate(90)">
-        <tspan
-           x="-27.015026"
-           y="267.96219"
-           style="font-size:100.481px;fill:#eeeeee;fill-opacity:0.85098;stroke-width:6.28009">
-          100,000 KM
-        </tspan>
-      </text>
-      <text
-         style="font-size:100.481px;line-height:0.85;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';fill:#eeeeee;fill-opacity:1;stroke-width:6.28009"
-         x="671.24884"
-         y="267.96219"
-         transform="rotate(90)">
-        <tspan
-           x="671.24884"
-           y="267.96219"
-           style="font-size:100.481px;fill:#eeeeee;fill-opacity:0.85098;stroke-width:6.28009">
-          1,000,000 KM
-        </tspan>
-      </text>
       <path
          stroke="#eeeeee"
          stroke-width="8.50677"

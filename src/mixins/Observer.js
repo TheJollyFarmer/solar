@@ -3,7 +3,7 @@ export default {
     return {
       observer: undefined,
       options: {
-        rootMargin: "1000px"
+        rootMargin: "20000px"
       }
     };
   },
