@@ -117,7 +117,7 @@ export default {
     },
 
     scrollToBottom() {
-      this.offset = window.pageYOffset;
+      this.offset = window.scrollY;
       this.start = this.getTime();
       this.end = document.body.scrollHeight - window.innerHeight;
       this.duration = (this.end - this.offset) / this.light;

@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import asteroids from "@/data/asteroids";
+import asteroids from "@/data/asteroids.json";
 import Expand from "@/mixins/Expand";
 import TransitionExpand from "@/components/utils/TransitionExpand";
 import VHeader from "@/components/utils/VHeader";

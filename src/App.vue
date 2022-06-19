@@ -17,7 +17,7 @@ import Navigation from "@/components/Navigation";
 import Pedometer from "@/components/Pedometer";
 import Planets from "@/components/Planets";
 import Welcome from "@/components/Welcome";
-import Asteroids from "@/Asteroids";
+import Asteroids from "@/components/Asteroids";
 import ScaleKey from "@/components/ScaleKey";
 
 export default {
@@ -49,7 +49,7 @@ export default {
 
   methods: {
     setOffset() {
-      this.offset = window.pageYOffset;
+      this.offset = window.scrollY;
     }
   }
 };

@@ -55,7 +55,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scop`ed>
+<style lang="scss" scoped>
 .planet {
   left: 50%;
   transform: translate(-50%, -50%);
